@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03c83153-8ee7-4278-940b-9ebf930e60fd" name="Changes" comment="git commit -am &quot;quiz &amp; rewards&quot;">
+      <change beforePath="$PROJECT_DIR$/app/(pages)/costumes/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(pages)/costumes/page.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(pages)/historyRewards/[id]/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(pages)/historyRewards/[id]/page.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(pages)/rewards/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(pages)/rewards/page.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2TKjFOPv9iD34jo1xV2RdSvtI3j" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/mnt/26DA78B9DA788739/Documents/Project/exsantara-VCP/fe/app/(pages)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
+    "ts.external.directory.path": "/snap/webstorm/329/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/(pages)" />
+      <recent name="$PROJECT_DIR$/components" />
+      <recent name="$PROJECT_DIR$/app/(pages)/news/list" />
+      <recent name="$PROJECT_DIR$/app/(pages)/admin" />
+      <recent name="$PROJECT_DIR$/app/(pages)/vegetations" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/(pages)/admin/users/edit" />
+      <recent name="$PROJECT_DIR$/app/(pages)/admin/animals/create" />
+      <recent name="$PROJECT_DIR$/app/(pages)/news/[id]" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="npm install react-icons " />
+      <command value="git pull " />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03c83153-8ee7-4278-940b-9ebf930e60fd" name="Changes" comment="" />
+      <created>1690798563000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690798563000</updated>
+      <workItem from="1690798564141" duration="2522000" />
+      <workItem from="1690802960717" duration="82000" />
+      <workItem from="1690803056247" duration="7029000" />
+      <workItem from="1690810716310" duration="163000" />
+      <workItem from="1690810890372" duration="15000" />
+      <workItem from="1690810911201" duration="339000" />
+      <workItem from="1690811260221" duration="26000" />
+      <workItem from="1690811294119" duration="7599000" />
+      <workItem from="1690828572514" duration="141000" />
+      <workItem from="1690828725756" duration="39000" />
+      <workItem from="1690901236536" duration="662000" />
+      <workItem from="1690949404736" duration="7000" />
+      <workItem from="1690970025102" duration="177000" />
+      <workItem from="1690989638939" duration="7000" />
+      <workItem from="1691057140726" duration="3360000" />
+      <workItem from="1691065480677" duration="2557000" />
+      <workItem from="1691132054013" duration="59000" />
+      <workItem from="1691175775236" duration="5712000" />
+      <workItem from="1691332179520" duration="4049000" />
+      <workItem from="1691336991318" duration="2331000" />
+      <workItem from="1691376848723" duration="2931000" />
+      <workItem from="1691419500772" duration="4011000" />
+      <workItem from="1691473744717" duration="31000" />
+      <workItem from="1691482938992" duration="77000" />
+      <workItem from="1691591695078" duration="15977000" />
+      <workItem from="1691613936214" duration="1946000" />
+      <workItem from="1691637984052" duration="2939000" />
+      <workItem from="1691942515310" duration="4571000" />
+      <workItem from="1691955511570" duration="1000" />
+      <workItem from="1692007872789" duration="164000" />
+      <workItem from="1692074110541" duration="630000" />
+      <workItem from="1692074750149" duration="165000" />
+      <workItem from="1692074926370" duration="82000" />
+      <workItem from="1692075017220" duration="968000" />
+      <workItem from="1692079731775" duration="101000" />
+      <workItem from="1692084501147" duration="3944000" />
+      <workItem from="1692111246035" duration="181000" />
+      <workItem from="1692117115830" duration="3185000" />
+      <workItem from="1692185183235" duration="516000" />
+      <workItem from="1692187170609" duration="10000" />
+      <workItem from="1692189907990" duration="116000" />
+      <workItem from="1692240066699" duration="2168000" />
+      <workItem from="1692242429198" duration="24268000" />
+      <workItem from="1692288392199" duration="1088000" />
+      <workItem from="1692337270682" duration="930000" />
+      <workItem from="1692338210724" duration="7722000" />
+      <workItem from="1692369815645" duration="15949000" />
+      <workItem from="1692413962111" duration="35000" />
+      <workItem from="1692414006135" duration="1457000" />
+      <workItem from="1692415475067" duration="9465000" />
+      <workItem from="1692455424717" duration="4442000" />
+      <workItem from="1692532213874" duration="2326000" />
+      <workItem from="1692541977784" duration="7259000" />
+      <workItem from="1692593742771" duration="599000" />
+      <workItem from="1692596668037" duration="3938000" />
+      <workItem from="1692603021383" duration="16986000" />
+      <workItem from="1692621233682" duration="4000" />
+      <workItem from="1692622709077" duration="3106000" />
+    </task>
+    <task id="LOCAL-00001" summary="profile">
+      <option name="closed" value="true" />
+      <created>1690823142254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690823142254</updated>
+    </task>
+    <task id="LOCAL-00002" summary="profile">
+      <option name="closed" value="true" />
+      <created>1690823531310</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690823531310</updated>
+    </task>
+    <task id="LOCAL-00003" summary="register">
+      <option name="closed" value="true" />
+      <created>1690826781614</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690826781614</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add home list">
+      <option name="closed" value="true" />
+      <created>1691337825679</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691337825679</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add home list">
+      <option name="closed" value="true" />
+      <created>1691337852223</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691337852223</updated>
+    </task>
+    <task id="LOCAL-00006" summary="grid list">
+      <option name="closed" value="true" />
+      <created>1691421288338</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691421288338</updated>
+    </task>
+    <task id="LOCAL-00007" summary="grid list">
+      <option name="closed" value="true" />
+      <created>1691422872952</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691422872952</updated>
+    </task>
+    <task id="LOCAL-00008" summary="news &amp; detail news">
+      <option name="closed" value="true" />
+      <created>1691601955263</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691601955263</updated>
+    </task>
+    <task id="LOCAL-00009" summary="chat">
+      <option name="closed" value="true" />
+      <created>1691613085528</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1691613085528</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix chat">
+      <option name="closed" value="true" />
+      <created>1691614327276</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1691614327276</updated>
+    </task>
+    <task id="LOCAL-00011" summary="detail items">
+      <option name="closed" value="true" />
+      <created>1691641088374</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1691641088374</updated>
+    </task>
+    <task id="LOCAL-00012" summary="git commit -am &quot;quiz &amp; rewards&quot;">
+      <option name="closed" value="true" />
+      <created>1692438124316</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692438124317</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="profile" />
+    <MESSAGE value="register" />
+    <MESSAGE value="add home list" />
+    <MESSAGE value="grid list" />
+    <MESSAGE value="news &amp; detail news" />
+    <MESSAGE value="chat" />
+    <MESSAGE value="fix chat" />
+    <MESSAGE value="detail items" />
+    <MESSAGE value="git commit -am &quot;quiz &amp; rewards&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -am &quot;quiz &amp; rewards&quot;" />
+  </component>
+</project>
